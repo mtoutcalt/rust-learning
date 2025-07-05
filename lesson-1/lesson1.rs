@@ -129,10 +129,3 @@ fn main() {
 // - Rust has various data types: integers, floats, booleans, characters, strings
 // - println! macro is used for printing (note the exclamation mark!)
 // - Rust is statically typed but can infer types in many cases
-
-// TO RUN THIS LESSON:
-// 1. Save this file as lesson_1.rs
-// 2. Open terminal/command prompt
-// 3. Navigate to the directory containing the file
-// 4. Compile: rustc lesson_1.rs
-// 5. Run: ./lesson_1 (Linux/Mac) or lesson_1.exe (Windows)
