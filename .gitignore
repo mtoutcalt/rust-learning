@@ -1,6 +1,7 @@
 # Rust compiled binaries
-lesson*
-lesson*.exe
+lesson[0-9]*
+!lesson*.rs
+*.exe
 
 # General Rust build artifacts (if you later use Cargo)
 /target/
