@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir \"c:\\\\Users\\\\mtout\\\\OneDrive\\\\Documents\\\\Code\\\\rust-learning\\\\lesson-4\")"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\mtout\\OneDrive\\Documents\\Code\\rust-learning"
+    ]
+  }
+}
